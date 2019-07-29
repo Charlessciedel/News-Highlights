@@ -30,3 +30,9 @@ A user will have to click on `Read More` on a specific source to view artiles on
 ## Known bugs
 No known errors, yet
 
+## Technologies used
+    - Python 3.6
+    - HTML
+    - MDBootstrap
+    - JavaScript
+
