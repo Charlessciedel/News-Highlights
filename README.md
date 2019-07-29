@@ -38,3 +38,6 @@ No known errors, yet
 ## Support and contact details
 Contact me charlesschiedel@gmail.com
 
+### License
+Copyright (c) **Schiedel**
+
