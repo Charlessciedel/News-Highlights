@@ -34,5 +34,7 @@ No known errors, yet
     - Python 3.6
     - HTML
     - MDBootstrap
-    - JavaScript
+    
+## Support and contact details
+Contact me charlesschiedel@gmail.com
 
