@@ -26,3 +26,7 @@ A user will have to click on `Read More` on a specific source to view artiles on
     - Install python 3.6
     - Run chmod a+x start.py
     - Run ./start.py
+
+## Known bugs
+No known errors, yet
+
