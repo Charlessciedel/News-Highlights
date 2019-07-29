@@ -18,3 +18,11 @@ A user will have to click on `Read More` on a specific source to view artiles on
 
 ## Prerequiites
     - Python 3.6 required
+
+
+## Set-up and Installation
+    - Clone the Repo
+    - Edit the start.sh file with your api key from the news.org website
+    - Install python 3.6
+    - Run chmod a+x start.py
+    - Run ./start.py
