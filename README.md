@@ -39,5 +39,5 @@ No known errors, yet
 Contact me charlesschiedel@gmail.com
 
 ### License
-Copyright (c) **Schiedel**
+Copyright (c) **Charles Schiedel**
 
