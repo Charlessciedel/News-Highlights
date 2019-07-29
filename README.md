@@ -15,3 +15,6 @@ A user will have to click on `Read More` on a specific source to view artiles on
 | View Entertainment sources | Click on the `View Stories` button | Scrolls the page to the `ENTERTAINMENT` section |
 | View Sports sources | Click on the `View Stories` button | Scrolls the page to the `SPORTS` section |
 | View Top Headlines Articles | Click on the `Top Headlines` button | Redirects to a page that displays articles on Top Headlines |
+
+## Prerequiites
+    - Python 3.6 required
