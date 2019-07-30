@@ -19,3 +19,6 @@ img:hover {
     opacity: 0.5;
     cursor: pointer;
 }
+p{
+    word-wrap: break-word;
+}
